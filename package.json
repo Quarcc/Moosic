@@ -1,7 +1,7 @@
 {
-  "name": "jugnu-music",
+  "name": "moosic",
   "version": "1.0.0",
-  "description": "I'm a Discord Bot Developer and here is mine Discord Music Bot",
+  "description": "Moosic bot is an independent music bot created by Brandon Wee",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
