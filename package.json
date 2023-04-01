@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kabirsingh2004/JUGNU-MUSIC.git"
+    "url": "git+https://github.com/Quarcc/Moosic.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kabirsingh2004/JUGNU-MUSIC/issues"
+    "url": "https://github.com/Quarcc/Moosic/issues"
   },
-  "homepage": "https://github.com/kabirsingh2004/JUGNU-MUSIC#readme",
+  "homepage": "https://github.com/Quarcc/Moosic#readme",
   "dependencies": {
     "@discordjs/voice": "^0.15.0",
     "@distube/deezer": "^1.0.0",
