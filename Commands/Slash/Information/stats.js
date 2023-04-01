@@ -46,7 +46,7 @@ module.exports = {
           .setTitle("__**Stats:**__")
           .setThumbnail(client.user.displayAvatarURL())
           .setDescription(
-            `> ** Made by [\` Kabir Jaipal \`](https://www.instagram.com/kabirjaipal_2004) **`
+            `> ** Made by [\` Brandon Wee \`](https://www.instagram.com/brandoonix) **`
           )
           .addFields([
             {
