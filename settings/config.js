@@ -1,6 +1,6 @@
 module.exports = {
-  TOKEN: process.env.TOKEN || "MTA5MTczMzQyNTk4MDk4NTQ4NQ.Gaq2vD.K9w5PbrtuopD_oOaDp9EqZI4YtPDk-VLxoXhZY",
-  PREFIX: process.env.PREFIX || "!!",
+  TOKEN: process.env.TOKEN || "TOKEN_ID",
+  PREFIX: process.env.PREFIX || "PREFIX",
   embed: {
     color: process.env.color || "#220f80",
     wrongcolor: process.env.wrongcolor || "#8a0808",
@@ -98,6 +98,6 @@ module.exports = {
   ],
   slash: {
     global: true,
-    guildID: process.env.GUILD_ID || "1089572855869616168", // for slash command
+    guildID: process.env.GUILD_ID || "SERVER_ID", // for slash command
   },
 };
